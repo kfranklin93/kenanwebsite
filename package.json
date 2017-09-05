@@ -1,0 +1,34 @@
+{
+  "name": "kenanwebsite",
+  "version": "1.0.0",
+  "description": "Rough version of website",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfranklin93/kenanwebsite.git"
+  },
+  "keywords": [
+    "portfolio",
+    "page",
+    "personal",
+    "node",
+    "kenan",
+    "franklin"
+  ],
+  "author": "Kenan Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfranklin93/kenanwebsite/issues"
+  },
+  "homepage": "https://github.com/kfranklin93/kenanwebsite#readme"
+}
