@@ -2,7 +2,7 @@
   "name": "kenanwebsite",
   "version": "1.0.0",
   "description": "Rough version of website",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4"
