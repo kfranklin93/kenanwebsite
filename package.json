@@ -2,7 +2,7 @@
   "name": "kenanwebsite",
   "version": "1.0.0",
   "description": "Rough version of website",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4"
@@ -11,6 +11,7 @@
     "nodemon": "^1.12.0"
   },
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
